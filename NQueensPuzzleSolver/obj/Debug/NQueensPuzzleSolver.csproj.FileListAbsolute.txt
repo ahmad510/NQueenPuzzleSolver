@@ -1,0 +1,9 @@
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\bin\Debug\NQueensPuzzleSolver.exe.config
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\bin\Debug\NQueensPuzzleSolver.exe
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\bin\Debug\NQueensPuzzleSolver.pdb
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.Properties.Resources.resources
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.csproj.GenerateResource.Cache
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.exe
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.pdb
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.Forms.MainForm.resources
+D:\IT\Projects\NQueensPuzzleSolver\NQueensPuzzleSolver\obj\Debug\NQueensPuzzleSolver.csprojResolveAssemblyReference.cache
