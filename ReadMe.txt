@@ -1,3 +1,7 @@
+This project is based on the algorithm of Pei Li on the following link:
+http://pli5.blogspot.com/2012/08/eight-queen-puzzle-in-c.html
+
+
 Requirements:
 To run N-Queens Puzzle Solver you need 
 1- "Microsoft Visual Studio 2013"
